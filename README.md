@@ -1,7 +1,10 @@
 # VLSI
 
+## Verilog Programming 
+ - [Verilog Tutorial](https://www.asic-world.com/verilog/veritut.html)
+
 ## Digital VLSI Design
- -[Logic Synthesis](http://www.eng.biu.ac.il/temanad/files/2018/11/Lecture-3-Synthesis-Part-1.pdf) 
+ - [Logic Synthesis](http://www.eng.biu.ac.il/temanad/files/2018/11/Lecture-3-Synthesis-Part-1.pdf) 
 
 ## Clock Tree
  - [Clock Tree Design](http://www.eng.biu.ac.il/temanad/files/2019/01/Lecture-8-CTS.pdf)
